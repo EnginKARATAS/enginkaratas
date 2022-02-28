@@ -2,7 +2,7 @@
 Full stack junior developer & Insturment lover & bachelor CE student in Turkey. 
 <div align = "center"><img width="60%" height="70%" src="https://dezinebrainz.com/images/web-design-gif.gif" height="175px" /></div>
 
-
+<div style="margin-left: 290px;"> <p align="left"> <a > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" />
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" /> </a> <a> 
  <img src="https://design.jboss.org/hibernate/logo/final/hibernate_icon_whitebkg_256px.png" alt="hibernate" width="40" height="40" />     <a > 
@@ -27,7 +27,7 @@ Full stack junior developer & Insturment lover & bachelor CE student in Turkey.
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
 
-
+<div>
 - 🔭 I’m currently working on Angular 10 & Java
 - 🌱 I’m currently learning Javascript OOP & Java & DS & Algorithms 
 - 💬 experience with full stack
