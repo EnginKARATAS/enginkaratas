@@ -55,8 +55,7 @@ Full stack junior developer & Insturment lover & bachelor CE student in Turkey.
 </div>
 
  
-    </div>
-- 🔭 I’m currently working on Angular 10 & Java
+ - 🔭 I’m currently working on Angular 10 & Java
 - 🌱 I’m currently learning Javascript OOP & Java & DS & Algorithms 
 - 💬 experience with full stack
 - 📫 How to reach me & cv: contact@enginkaratas.com 
