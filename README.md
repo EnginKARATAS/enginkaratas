@@ -38,7 +38,7 @@ Full stack junior developer & Insturment lover & bachelor CE student in Turkey.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" />
 
 
-<div></div>
+</div></div>
 - 🔭 I’m currently working on Angular 10 & Java
 - 🌱 I’m currently learning Javascript OOP & Java & DS & Algorithms 
 - 💬 experience with full stack
