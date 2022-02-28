@@ -2,8 +2,7 @@
 <html lang="en">
  
 <body>
-## Hello, I'm Engin
-Full stack junior developer & Insturment lover & bachelor CE student in Turkey. 
+
 <div align = "center"><img width="60%" height="70%" src="https://dezinebrainz.com/images/web-design-gif.gif" height="175px" />
 
 <div style="margin-left: 290px;"> <p align="left"> <a > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
@@ -44,13 +43,11 @@ Full stack junior developer & Insturment lover & bachelor CE student in Turkey.
 
  </div></div>
 
-## 🎸 Github Stats:
-<div style="display: inline">
-  <img src="https://github-readme-stats.vercel.app/api/?username=enginkaratas&count_private=true&theme=highcontrast&showicons=true&include_all_commits=true&hide_border=true" width="500">
-</div>
 
- 
- - 🔭 I’m currently working on Angular 10 & Java
+
+## Hello, I'm Engin
+Full stack junior developer & Insturment lover & bachelor CE student in Turkey.  
+- 🔭 I’m currently working on Angular 10 & Java
 - 🌱 I’m currently learning Javascript OOP & Java & DS & Algorithms 
 - 💬 experience with full stack
 - 📫 How to reach me & cv: contact@enginkaratas.com 
@@ -71,5 +68,11 @@ Full stack junior developer & Insturment lover & bachelor CE student in Turkey.
 [linkedin]: https://www.linkedin.com/in/enginkaratas/
 [brad]: https://github.com/EnginKARATAS
 
+ 
+ 
+ ## 🎸 Github Stats:
+<div style="display: inline">
+  <img src="https://github-readme-stats.vercel.app/api/?username=enginkaratas&count_private=true&theme=highcontrast&showicons=true&include_all_commits=true&hide_border=true" width="500">
+</div>
 </body>
 </html>
