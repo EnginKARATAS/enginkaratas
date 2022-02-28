@@ -54,9 +54,9 @@ Full stack junior developer & Insturment lover & bachelor CE student in Turkey.
   <img src="https://github-readme-stats.vercel.app/api/?username=enginkaratas&count_private=true&theme=highcontrast&showicons=true&include_all_commits=true&hide_border=true" width="500">
 </div>
 
-(⌐■_■).
+ 
     </div>
-    - 🔭 I’m currently working on Angular 10 & Java
+- 🔭 I’m currently working on Angular 10 & Java
 - 🌱 I’m currently learning Javascript OOP & Java & DS & Algorithms 
 - 💬 experience with full stack
 - 📫 How to reach me & cv: contact@enginkaratas.com 
