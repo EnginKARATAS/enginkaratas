@@ -3,7 +3,7 @@ Full stack junior developer & Insturment lover & bachelor CE student in Turkey.
 <div align = "center"><img width="60%" height="70%" src="https://dezinebrainz.com/images/web-design-gif.gif" height="175px" /></div>
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" />
 
 
 - 🔭 I’m currently working on Angular 10 & Java
