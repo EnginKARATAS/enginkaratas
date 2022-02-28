@@ -110,9 +110,7 @@ student in Turkey.
       src="https://www.kindpng.com/picc/m/750-7501316_in-order-to-show-how-holoviews-works-well.png"
       alt="numpy"
       width="50"
-      height="40"
-    />
-    <!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjXOGZERa-SeysZD_UTK71pHMTdpkEeBuWGKzcjxqQwm1aBL5JVPMq4yCJKhgBnsoj&usqp=CAU        " alt="folium" width="40" height="40" />  -->
+      height="40" />
 
     <img
       src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
@@ -185,6 +183,7 @@ student in Turkey.
       width="40"
       height="40"
     />
+    <!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjXOGZERa-SeysZD_UTK71pHMTdpkEeBuWGKzcjxqQwm1aBL5JVPMq4yCJKhgBnsoj&usqp=CAU        " alt="folium" width="40" height="40" />  -->
 
     - 🔭 I’m currently working on Angular 10 & Java - 🌱 I’m currently learning
     Javascript OOP & Java & DS & Algorithms - 💬 experience with full stack - 📫
