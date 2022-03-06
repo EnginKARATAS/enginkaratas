@@ -48,7 +48,7 @@
 
 
 ## Hello, I'm Engin
-Full stack junior developer & Insturment lover & bachelor CE student in Turkey.  
+Full stack junior developer & 🎸 lover & bachelor CE student in Turkey.  
 - 🔭 I’m currently working on Angular 10 & Java
 - 🌱 I’m currently learning Javascript OOP & Java & DS & Algorithms 
 - 💬 experience with full stack
