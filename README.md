@@ -61,6 +61,8 @@ Full stack junior developer & 🎸 lover & bachelor CE student in Turkey.
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
+⏩ [youtube][youtube]
+
 
 -->
 
@@ -69,7 +71,7 @@ Full stack junior developer & 🎸 lover & bachelor CE student in Turkey.
 [instagram]: https://www.instagram.com/engin_engineerings/
 [linkedin]: https://www.linkedin.com/in/enginkaratas/
 [brad]: https://github.com/EnginKARATAS
-
+[youtube]: https://www.youtube.com/channel/UCzg5oJCPO7ZzKyuhmU-AsxQ
  
  
  ## 🎸 Github Stats:
