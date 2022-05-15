@@ -67,7 +67,7 @@ Full stack junior developer & 🎸 lover & bachelor CE student in Turkey.
 -->
 
 [website]: https://enginkaratas.com
-[twitter]: https://twitter.com/youcantgotherebro
+[twitter]: https://twitter.com/privatebreath
 [instagram]: https://www.instagram.com/engin_engineerings/
 [linkedin]: https://www.linkedin.com/in/enginkaratas/
 [brad]: https://github.com/EnginKARATAS
