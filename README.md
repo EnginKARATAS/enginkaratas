@@ -41,7 +41,7 @@
 
 
  </div></div>
-<div align = "center"><img width="60%" height="70%" src="https://dezinebrainz.com/images/web-design-gif.gif" height="175px" />
+<div align = "center"><img width="60%" height="70%" src="https://dezinebrainz.com/images/web-design-gif.gif" height="175px" /></div>
 
 
 
@@ -52,8 +52,6 @@ Full stack junior developer & 🎸 lover & Computer Engineer in Turkey.
 - 💬 experience with full stack
 - 📫 How to reach me & cv: contact@enginkaratas.com
 - 🕊️ I`m pasting english translates of turkish words <a href="https://twitter.com/en_esittir_tr">here</a>
-
-
 
  
 🏡 [website(blog)][website] **|** 
