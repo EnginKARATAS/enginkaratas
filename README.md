@@ -43,6 +43,7 @@
 
 
  </div></div>
+<div align = "center"><img width="60%" height="70%" src="https://dezinebrainz.com/images/web-design-gif.gif" height="175px" />
 
 
 
