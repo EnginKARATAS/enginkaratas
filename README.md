@@ -48,7 +48,7 @@
 ## Hello, I'm Engin
 Full stack junior developer & 🎸 lover & Computer Engineer in Turkey.  
 - 🔭 I’m currently working on Angular 10 & Java
-- 🌱 I’m currently learning Javascript OOP & Java & DS & Algorithms 
+- 🌱 I’m currently learning Javascript OOP & Java & Angular & DS & Algorithms 
 - 💬 experience with full stack
 - 📫 How to reach me & cv: contact@enginkaratas.com
 - 🕊️ I`m pasting english translates of turkish words <a href="https://twitter.com/en_esittir_tr">here</a>
