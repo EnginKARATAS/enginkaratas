@@ -46,9 +46,10 @@
 
 
 ## Hello, I'm Engin
+ 
 Full stack junior developer & 🎸 lover & Computer Engineer in Turkey.  
-- 🔭 I’m currently working on Angular 10 & Java
-- 🌱 I’m currently learning Javascript OOP & Java & Angular & DS & Algorithms 
+- 🔭 I’m currently working on React & interviews
+- 🌱 I’m currently learning Typescript & Java & Angular & DS & Algorithms 
 - 💬 experience with full stack
 - 📫 How to reach me & cv: contact@enginkaratas.com
 - 🕊️ I`m pasting english translates of turkish words <a href="https://twitter.com/en_esittir_tr">here</a>
@@ -76,6 +77,6 @@ Full stack junior developer & 🎸 lover & Computer Engineer in Turkey.
   <img src="https://github-readme-stats.vercel.app/api/?username=enginkaratas&count_private=true&theme=highcontrast&showicons=true&include_all_commits=true&hide_border=true" width="500">
 </div>
     <a href="#"><img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=enginkaratas&countColor=%237B1E7A" /></a>
-
 </body>
+ 
 </html>
