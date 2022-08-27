@@ -73,7 +73,7 @@ Full stack junior developer & 🎸 lover & Computer Engineer in Turkey.
 [youtube]: https://www.youtube.com/channel/UCzg5oJCPO7ZzKyuhmU-AsxQ
  
  
- ## 🎸 Github Stats:
+ ## 🎸 Github Stats: 
 <div style="display: inline">
   <img src="https://github-readme-stats.vercel.app/api/?username=enginkaratas&count_private=true&theme=highcontrast&showicons=true&include_all_commits=true&hide_border=true" width="500">
 </div>
