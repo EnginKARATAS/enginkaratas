@@ -54,7 +54,13 @@ Full stack junior developer & 🎸 lover & Computer Engineer in Turkey.
 - 💬 experience with full stack
 - 📫 How to reach me & cv: contact@enginkaratas.com
 - 🕊️ I`m pasting english translates of turkish words <a href="https://twitter.com/en_esittir_tr">here</a>
-
+ 
+<p align="center">
+    <a href="https://github.com/enginkaratas/">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="enginkaratas" src="https://github-readme-streak-stats.herokuapp.com/?user=enginkaratas&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+ <a href="#"><img width="200px" text-align= "center" height="200px" src="https://user-images.githubusercontent.com/61355143/141691362-ea025843-55a9-41d2-8621-43e1c36b9396.gif" height="175px"/></a>
+</p>
  
 🏡 [website(blog)][website] **|** 
 🐦 [twitter][twitter] **|** 
