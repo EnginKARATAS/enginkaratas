@@ -58,7 +58,7 @@ Full stack junior developer & 🎸 lover & Computer Engineer in Turkey.
 
  
 🏡 [website(blog)][website] **|** 
-🐦 [twitter][twitter] **|** 
+🐦 [twitter][] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 ⏩ [youtube][youtube]
@@ -67,7 +67,7 @@ Full stack junior developer & 🎸 lover & Computer Engineer in Turkey.
 -->
 
 [website]: https://enginkaratas.com
-[twitter]: https://twitter.com/privatebreath
+[twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/engin_engineerings/
 [linkedin]: https://www.linkedin.com/in/enginkaratas/
 [brad]: https://github.com/EnginKARATAS
