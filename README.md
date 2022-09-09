@@ -49,9 +49,9 @@
 ## Hello, I'm Engin
  
 Full stack junior developer & 🎸 lover & Computer Engineer in Turkey.  
-- 🔭 I’m currently working on React & interviews
-- 🌱 I’m currently learning Typescript & Java & Angular & DS & Algorithms 
-- 💬 experience with full stack
+- 🔭 I’m currently working Huawei
+- 🌱 I’m currently learning Typescript & Algorithms 
+- 💬 Experience with full stack
 - 📫 How to reach me & cv: contact@enginkaratas.com
 - 🕊️ I`m pasting english translates of turkish words <a href="https://twitter.com/en_esittir_tr">here</a>
  
