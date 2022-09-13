@@ -80,7 +80,7 @@ Full stack junior developer & 🎸 lover & Computer Engineer in Turkey.
 </div>
     <a href="#"><img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=enginkaratas&countColor=%237B1E7A" /></a>
  
- <p align="">
+ <p align="left">
     <a href="https://github.com/enginkaratas/">
         <img title="" alt="enginkaratas" src="https://github-readme-streak-stats.herokuapp.com/?user=enginkaratas&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
