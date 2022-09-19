@@ -48,7 +48,7 @@
 
 ## Hello, I'm Engin 
  
-Full stack junior developer & 🎸 lover & Computer Engineer in Turkey.  
+I'm Software Engineer.  
 - 🔭 I’m currently working Huawei
 - 🌱 I’m currently learning Typescript & Algorithms 
 - 💬 Experience with full stack
