@@ -26,7 +26,7 @@
  <img src="https://www.kindpng.com/picc/m/750-7501316_in-order-to-show-how-holoviews-works-well.png" alt="numpy" width="50" height="40" /> </a>   <a > 
  <!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjXOGZERa-SeysZD_UTK71pHMTdpkEeBuWGKzcjxqQwm1aBL5JVPMq4yCJKhgBnsoj&usqp=CAU        " alt="folium" width="40" height="40" />  --></a>
  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" /> </a> <a > 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> </a>  <a > 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> </a>  <a> 
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
  
