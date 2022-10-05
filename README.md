@@ -41,7 +41,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original-wordmark.svg" width="40" height="40"/>
 
 
- </div></div>
+ </div></div> 
 <div align = "center"><img width="60%" height="70%" src="https://dezinebrainz.com/images/web-design-gif.gif" height="175px" /></div>
 
 
