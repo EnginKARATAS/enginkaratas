@@ -48,8 +48,8 @@
 
 ## Hello, I'm Engin
  
-I'm Software Engineer.  
-- 🔭 I’m currently working Huawei
+I'm a Software Engineer at Huawei  
+- 🔭 I’m currently working Ts
 - 🌱 I’m currently learning Typescript & Algorithms 
 - 💬 Experience with full stack
 - 📫 How to reach me & cv: contact@enginkaratas.com
