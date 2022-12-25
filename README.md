@@ -56,7 +56,7 @@ I'm a Software Engineer at Huawei
 - 🕊️ I`m pasting english translates of turkish words <a href="https://twitter.com/en_esittir_tr">here</a>
  
 
- 
+  
 🏡 [website(blog)][website] **|** 
 🐦 [twitter][] **|** 
 📷 [instagram][instagram] **|** 
