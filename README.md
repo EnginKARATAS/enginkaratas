@@ -49,7 +49,7 @@
 ## Hello, I'm Engin
   
 I'm a Software Engineer at Huawei  
-- 🔭 I’m currently working Ts
+- 🔭 I’m currently working Vue
 - 🌱 I’m currently learning Typescript & Algorithms 
 - 💬 Experience with full stack
 - 📫 How to reach me & cv: contact@enginkaratas.com
