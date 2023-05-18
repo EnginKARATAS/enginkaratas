@@ -9,7 +9,6 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" />
  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" /> </a> <a> 
  <img src="https://design.jboss.org/hibernate/logo/final/hibernate_icon_whitebkg_256px.png" alt="hibernate" width="40" height="40" />     <a > 
- <img src="https://turreta.com/wp-content/uploads/2017/01/spring-boot-project-logo.png" alt="springjpa" width="45" height="45" /> </a> <a> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /> </a> <a > 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" /> </a> <a > 
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a> <a >
