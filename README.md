@@ -3,7 +3,7 @@
           
 <body>             
           
-    
+     
 <div style="margin-left: 290px;"> <p align="left"> <a > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" />
@@ -72,7 +72,7 @@ I'm a Software Engineer at Huawei
 [brad]: https://github.com/EnginKARATAS
 [youtube]: https://www.youtube.com/channel/UCzg5oJCPO7ZzKyuhmU-AsxQ
  
- 
+  
  ## 🎸 Github Stats: 
 <div style="display: inline">
   <img src="https://github-readme-stats.vercel.app/api/?username=enginkaratas&count_private=true&theme=highcontrast&showicons=true&include_all_commits=true&hide_border=true" width="500">
