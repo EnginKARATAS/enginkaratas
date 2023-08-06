@@ -67,10 +67,10 @@ I'm a Software Engineer at Huawei
 
 [website]: https://enginkaratas.com
 [twitter]: https://twitter.com/
-[instagram]: https://www.instagram.com/engin_engineerings/
+[instagram]: https://www.instagram.com/engin_karatas_/
 [linkedin]: https://www.linkedin.com/in/enginkaratas/
-[brad]: https://github.com/EnginKARATAS
-[youtube]: https://www.youtube.com/channel/UCzg5oJCPO7ZzKyuhmU-AsxQ
+[brad]: https://github.com/enginkaratas
+[youtube]: https://www.youtube.com/@engin_karatas
  
   
  ## 🎸 Github Stats: 
