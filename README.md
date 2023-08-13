@@ -59,8 +59,6 @@ I'm a Software Engineer at Huawei
 👔 [linkedin][linkedin]
 ⏩ [youtube][youtube]
 
---> 
-
 [website]: https://enginkaratas.com
 [twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/engin_karatas_/
