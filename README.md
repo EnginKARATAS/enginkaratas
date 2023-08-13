@@ -69,16 +69,12 @@ I'm a Software Engineer at Huawei
 [youtube]: https://www.youtube.com/@engin_karatas
  
  ## 🎸 Github Stats: 
+    <a href="https://github.com/enginkaratas/">
 <div style="display: inline">
   <img src="https://github-readme-stats.vercel.app/api/?username=enginkaratas&count_private=true&theme=highcontrast&showicons=true&include_all_commits=true&hide_border=true" width="500">
 </div>
     <a href="#"><img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=enginkaratas&countColor=%237B1E7A" /></a>
  <p align="left">
-    <a href="https://github.com/enginkaratas/">
-        <img title="" alt="enginkaratas" src="https://github-readme-streak-stats.herokuapp.com/?user=enginkaratas&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
- <a href="#"><img width="200px" text-align= "center" height="200px" src="https://user-images.githubusercontent.com/61355143/141691362-ea025843-55a9-41d2-8621-43e1c36b9396.gif" height="175px"/></a>
 </p>
-</body>
-</html>
+    </a>
  
