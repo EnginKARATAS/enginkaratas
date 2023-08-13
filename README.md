@@ -73,8 +73,5 @@ I'm a Software Engineer at Huawei
 <div style="display: inline">
   <img src="https://github-readme-stats.vercel.app/api/?username=enginkaratas&count_private=true&theme=highcontrast&showicons=true&include_all_commits=true&hide_border=true" width="500">
 </div>
-    <a href="#"><img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=enginkaratas&countColor=%237B1E7A" /></a>
- <p align="left">
-</p>
-    </a>
+ 
  
