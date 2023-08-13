@@ -69,8 +69,7 @@ I'm a Software Engineer at Huawei
 [youtube]: https://www.youtube.com/@engin_karatas
  
  ## 🎸 Github Stats: 
-    <a href="https://github.com/enginkaratas/">
-<div style="display: inline">
+ <div style="display: inline">
   <img src="https://github-readme-stats.vercel.app/api/?username=enginkaratas&count_private=true&theme=highcontrast&showicons=true&include_all_commits=true&hide_border=true" width="500">
 </div>
  
