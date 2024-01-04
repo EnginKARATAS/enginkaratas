@@ -47,7 +47,7 @@
   
 I'm a Software Engineer at Huawei  
 - 🔭 I’m currently working Vue
-- 🌱 I’m currently learning Typescript & Algorithms 
+- 🌱 I’m currently learning Cloud Computing
 - 💬 Experience with full stack
 - 📫 How to reach me & cv: contact@enginkaratas.com
   
