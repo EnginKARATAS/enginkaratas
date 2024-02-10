@@ -1,5 +1,5 @@
 ### I'm Engin, Software Engineer at Huawei  
-- 💬 Experience with full stack contact@enginkaratas.com
+- 💬 Experience with full stack contact@enginkaratas.com 
   
 🏡 [website(blog)][website] **|** 
 👔 [linkedin][linkedin]
