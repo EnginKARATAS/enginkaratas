@@ -1,4 +1,4 @@
-### I'm Engin, Software Engineer at Huawei  
+### I'm Engin, Software Engineer at Huawei, coding since 2018
 - 💬 Experience with full stack contact@enginkaratas.com 
   
 🏡 [website(blog)][website] **|** 
