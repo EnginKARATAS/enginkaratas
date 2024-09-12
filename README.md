@@ -1,11 +1,24 @@
-### I'm Engin, Software Engineer at Huawei, coding since 2018
-- 💬 contact@enginkaratas.com  
-  
-🏡 [website(blog)][website] **|**  
-👔 [linkedin][linkedin]
-⏩ [youtube][youtube]
+# 👋 Hello World! I'm Engin Karatas
 
-[website]: https://enginkaratas.com
-[linkedin]: https://www.linkedin.com/in/enginkaratas/
-[youtube]: https://www.youtube.com/@engin_karatas
+## 💻 Code Conjurer | ☁️ Cloud Enthusiast | 🌟 Future Star @Huawei
 
+```javascript
+const engin = {
+  currentRole: "Software Engineer @ Huawei",
+  codeArsenal: ["JavaScript", "TypeScript", "Vue.js", "Angular", "Node.js"],
+  cloudPlayground: ["AWS", "Huawei Cloud"],
+  passions: ["Front-end Magic", "High-Scale Business Apps", "Continuous Learning"],
+  funFact: "I once migrated a Vue.js app so smoothly, users didn't even notice! 🥷"
+};
+```
+
+### 🚀 Mission
+Transforming tea into code and ideas into scalable web solutions. Always on a quest to make the internet a more user-friendly place, one commit at a time.
+
+### 📚 Current Side Quest
+Building a chrome extension that serves daily AI wisdom. Because who doesn't need a dose of artificial intelligence with their morning coffee?
+
+### 📫 Wanna collaborate on some code adventures?
+- 💼 Connect on [LinkedIn](https://www.linkedin.com/in/enginkaratas/)
+- 🌐 Check out my digital playground(dead 🥹): [enginkaratas.com](https://enginkaratas.com)
+- 📺 Watch me debug in real-time: [YouTube](https://www.youtube.com/@engin_karatas)
