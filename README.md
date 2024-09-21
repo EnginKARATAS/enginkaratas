@@ -20,5 +20,5 @@ Building a chrome extension that serves daily AI wisdom. Because who doesn't nee
 
 ### 📫 Wanna collaborate on some code adventures?
 - 💼 Connect on [LinkedIn](https://www.linkedin.com/in/enginkaratas/)
-- 🌐 Check out my digital playground(dead 🥹): [enginkaratas.com](https://enginkaratas.com)
+- 🌐 Check out my digital playground(dead 🥹, I am creating a new one): [enginkaratas.com](https://enginkaratas.com)
 - 📺 Watch me debug in real-time: [YouTube](https://www.youtube.com/@engin_karatas)
