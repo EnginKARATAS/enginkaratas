@@ -15,8 +15,11 @@ const engin = {
 ### 🚀 Mission
 Transforming tea into code and ideas into scalable web solutions. Always on a quest to make the internet a more user-friendly place, one commit at a time.
 
-### 📚 Current Side Quest
-Building a chrome extension that serves daily AI wisdom. Because who doesn't need a dose of artificial intelligence with their morning coffee?
+### 📚 Current Development Quest
+* Hearthstone Game(react)
+* jobland project(java)
+* DBus Communication Linux
+* JS Advanced
 
 ### 📫 Wanna collaborate on some code?
 - 💼 Connect on [LinkedIn](https://www.linkedin.com/in/enginkaratas/)
