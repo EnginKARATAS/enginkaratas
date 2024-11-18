@@ -3,7 +3,7 @@
 ## 💻 Code Conjurer | ☁️ Cloud Enthusiast | 🌟 Future Star @Huawei
   
 ```javascript
-const engin = { 
+const engin = {  
   currentRole: "Software Engineer @ Huawei",
   codeArsenal: ["JavaScript", "TypeScript", "Vue.js", "React", "Java"],
   cloudPlayground: ["AWS", "Huawei Cloud"],
