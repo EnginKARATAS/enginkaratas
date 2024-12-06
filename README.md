@@ -17,11 +17,9 @@ Transforming tea into code and ideas into scalable web solutions. Always on a qu
 
 ### 📚 Current Development Quest
 * Hearthstone Game(react)
-* jobland project(java)
-* DBus Communication Linux
-* JS Advanced
+* Library Management
 
 ### 📫 Wanna collaborate on some code?
 - 💼 Connect on [LinkedIn](https://www.linkedin.com/in/enginkaratas/)
-- 🌐 Check out my digital playground(dead 🥹, I am creating a new one): [enginkaratas.com](https://enginkaratas.com)
 - 📺 Watch me debug in real-time: [YouTube](https://www.youtube.com/@engin_karatas)
+- 🌐 Check out my digital playground: [enginkaratas.com](https://enginkaratas.com)
