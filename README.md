@@ -1,6 +1,6 @@
 # 👋 Hello World! I'm Engin Karatas(25)
 
-## 💻 Code Conjurer | ☁️ Cloud Enthusiast | 🌟 Future Star @Huawei
+## 💻 Code Conjurer | ☁️ Cloud Enthusiast | 🌟 Future Star @Huawei 
   
 ```javascript   
 const engin = {   
