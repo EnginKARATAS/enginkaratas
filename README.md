@@ -19,8 +19,8 @@ Transforming tea into code and ideas into scalable web solutions. Always on a qu
 * Hearthstone Game(react)
 * Library Management
 
-### 📫 Wanna collaborate on some code?
+### 📫 Interested code? Check out these links
 - 💼 Connect on [LinkedIn](https://www.linkedin.com/in/enginkaratas/)
 - 📺 Watch me debug in real-time: [YouTube](https://www.youtube.com/@engin_karatas)
-- 📺 Checkout our github organizaiton : [YOBUCE Github](https://github.com/YOBU-Computer-Engineering)
+- 🐈 Our Github organizaiton : [YOBUCE Github](https://github.com/YOBU-Computer-Engineering)
 - 🌐 Check out my digital playground: [enginkaratas.com](https://enginkaratas.com)
