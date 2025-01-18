@@ -21,7 +21,7 @@ Transforming tea into code and ideas into scalable web solutions. Always on a qu
 
   
   <img width="400px" alt="Engin Karatas's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/enginkaratas?theme=tokyonight" />  
-  <a href="https://visitorbadge.io/status?path=enginkaratas"><img src="https://api.visitorbadge.io/api/visitors?path=enginkaratas&countColor=%23263759" /></a>
+  <img src="https://api.visitorbadge.io/api/combined?path=enginkaratas&labelColor=%23f47373&countColor=%23ba68c8&style=flat-square&labelStyle=upper" />
  
 
 ### 📫 Interested code? Check out these links
