@@ -19,10 +19,8 @@ Transforming tea into code and ideas into scalable web solutions. Always on a qu
 * Hearthstone Game(react)
 * Library Management
 
- 
-  <a href="www.enginkaratas.com" target="_blank">
-    <img width="400px" alt="Engin Karatas's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/enginkaratas?theme=tokyonight" />  
-  </a>
+  
+  <img width="400px" alt="Engin Karatas's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/enginkaratas?theme=tokyonight" />  
   <a href="https://visitorbadge.io/status?path=enginkaratas"><img src="https://api.visitorbadge.io/api/visitors?path=enginkaratas&countColor=%23263759" /></a>
  
 
