@@ -19,12 +19,12 @@ Transforming tea into code and ideas into scalable web solutions. Always on a qu
 * Hearthstone Game(react)
 * Library Management
 
-<p align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=enginkaratas.enginkaratas&left_color=hotpink&right_color=royalblue&left_text=Profile%20Views"  />
-  <a href="https://awesome-github-stats.azurewebsites.net" target="_blank">    
+ 
+  <a href="https://awesome-github-stats.azurewebsites.net" target="_blank">
     <img width="400px" alt="Engin Karatas's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/enginkaratas?theme=tokyonight" />  
   </a>
-</p>
+  <a href="https://visitorbadge.io/status?path=enginkaratas"><img src="https://api.visitorbadge.io/api/visitors?path=enginkaratas&countColor=%23263759" /></a>
+ 
 
 ### 📫 Interested code? Check out these links
 - 💼 Connect on [LinkedIn](https://www.linkedin.com/in/enginkaratas/)
