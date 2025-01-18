@@ -20,7 +20,7 @@ Transforming tea into code and ideas into scalable web solutions. Always on a qu
 * Library Management
 
  
-  <a href="https://awesome-github-stats.azurewebsites.net" target="_blank">
+  <a href="www.enginkaratas.com" target="_blank">
     <img width="400px" alt="Engin Karatas's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/enginkaratas?theme=tokyonight" />  
   </a>
   <a href="https://visitorbadge.io/status?path=enginkaratas"><img src="https://api.visitorbadge.io/api/visitors?path=enginkaratas&countColor=%23263759" /></a>
