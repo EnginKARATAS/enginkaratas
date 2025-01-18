@@ -19,9 +19,9 @@ Transforming tea into code and ideas into scalable web solutions. Always on a qu
 * Hearthstone Game(react)
 * Library Management
 
-  
+  <p align="center">
   <img width="400px" alt="Engin Karatas's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/enginkaratas?theme=tokyonight" />  
-  <img src="https://api.visitorbadge.io/api/combined?path=enginkaratas&labelColor=%23f47373&countColor=%23ba68c8&style=flat-square&labelStyle=upper" />
+  </p>
  
 
 ### 📫 Interested code? Check out these links
@@ -29,3 +29,7 @@ Transforming tea into code and ideas into scalable web solutions. Always on a qu
 - 📺 Watch me debug in real-time: [YouTube](https://www.youtube.com/@engin_karatas)
 - 🐈 Our Github organizaiton : [YOBUCE Github](https://github.com/YOBU-Computer-Engineering)
 - 🌐 Check out my digital playground: [enginkaratas.com](https://enginkaratas.com)
+
+  <p align="center">
+  <img src="https://api.visitorbadge.io/api/combined?path=enginkaratas&labelColor=%23ba68c8&countColor=%232ccce4&style=flat-square&labelStyle=upper" />
+  </p>
