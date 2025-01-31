@@ -1,8 +1,12 @@
+
 # 👋 Hello World! I'm Engin Karatas 
 
-  
 ## 💻 Code Conjurer | ☁️ Cloud Enthusiast | 🌟 Future Star @Huawei 
-  
+
+<p style="padding-top:-10px">An example from my latest project💫</p>
+
+![11-07-2024 (02-52-33)](https://github.com/user-attachments/assets/3e42b5c9-7a7f-449f-b24f-4d807b9b9cd3) 
+
 ```javascript    
 const engin = {   
   currentRole: "Software Engineer @ Huawei",
@@ -17,11 +21,7 @@ Transforming tea into code and ideas into scalable web solutions. Always on a qu
 
   <p align="center">
   <img width="400px" alt="Engin Karatas's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/enginkaratas?theme=tokyonight" />  
-   </p>
-
-  ![hippo](https://github.com/user-attachments/assets/a1e3a97f-bc3e-49d9-ac32-16a6b228971c)
-   
-  
+ 
 ### 📫 Interested code? Check out these links
 - 💼 Connect on [LinkedIn](https://www.linkedin.com/in/enginkaratas/)
 - 📺 Watch me debug in real-time: [YouTube](https://www.youtube.com/@engin_karatas)
