@@ -1,5 +1,6 @@
 # 👋 Hello World! I'm Engin Karatas 
 
+  
 ## 💻 Code Conjurer | ☁️ Cloud Enthusiast | 🌟 Future Star @Huawei 
   
 ```javascript    
@@ -16,7 +17,10 @@ Transforming tea into code and ideas into scalable web solutions. Always on a qu
 
   <p align="center">
   <img width="400px" alt="Engin Karatas's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/enginkaratas?theme=tokyonight" />  
-  </p>
+   </p>
+
+  ![hippo](https://github.com/user-attachments/assets/a1e3a97f-bc3e-49d9-ac32-16a6b228971c)
+   
   
 ### 📫 Interested code? Check out these links
 - 💼 Connect on [LinkedIn](https://www.linkedin.com/in/enginkaratas/)
