@@ -10,7 +10,7 @@
 ```javascript    
 const engin = {   
   currentRole: "Software Engineer @ Huawei",
-  codeArsenal: ["Next.js", "JavaScript", "TypeScript", "Vue.js", "React", "Java"],
+  codeArsenal: ["Java", "Next.js", "TypeScript", "Vue.js", "React", "JavaScript"],
   cloudPlayground: ["AWS", "Huawei Cloud"],
   passions: ["Front-end Magic", "High-Scale Business Apps", "Continuous Learning"],
   funFact: "I once migrated a Vue.js app so smoothly, users didn't even notice! 🥷"
