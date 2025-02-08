@@ -3,7 +3,7 @@
 
 ## 💻 Code Conjurer | ☁️ Cloud Enthusiast | 🌟 Future Star @Huawei 
 
-<p style="padding-top:-10px">An example from my latest project💫</p>
+<p style="padding-top:-10px">An example from my React project💫</p>
 
 ![11-07-2024 (02-52-33)](https://github.com/user-attachments/assets/3e42b5c9-7a7f-449f-b24f-4d807b9b9cd3) 
 
