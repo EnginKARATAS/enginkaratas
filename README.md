@@ -31,3 +31,6 @@ Transforming tea into code and ideas into scalable web solutions. Always on a qu
   <p align="center">
   <img src="https://api.visitorbadge.io/api/combined?path=enginkaratas&labelColor=%23ba68c8&countColor=%232ccce4&style=flat-square&labelStyle=upper" />
   </p>
+  
+##  My Presentations  
+* [Versiyon Kontrolleri & Git & GitHub](https://www.youtube.com/watch?v=uEXB_QlcqVw)<br>
