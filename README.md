@@ -1,8 +1,6 @@
 
 # 👋 Hello World! I'm Engin Karatas 
 
-## 💻 Code Conjurer | ☁️ Cloud Enthusiast | 🌟 Future Star @Huawei 
-
 <p style="padding-top:-10px">An example from my React project💫</p>
 
 ![11-07-2024 (02-52-33)](https://github.com/user-attachments/assets/3e42b5c9-7a7f-449f-b24f-4d807b9b9cd3) 
@@ -34,3 +32,5 @@ Transforming tea into code and ideas into scalable web solutions. Always on a qu
   
 ##  My Presentations  
 * [Versiyon Kontrolleri & Git & GitHub](https://www.youtube.com/watch?v=uEXB_QlcqVw)<br>
+
+![Let's Talk](https://github.com/user-attachments/assets/9224e48b-c718-461d-801f-f2d21f0fbf14)
