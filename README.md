@@ -14,8 +14,13 @@ const engin = {
   funFact: "I once migrated a Vue.js app so smoothly, users didn't even notice! 🥷"
 };
 ```
-### 🚀 Mission
-Transforming tea into code and ideas into scalable web solutions. Always on a quest to make the internet a more user-friendly place, one commit at a time.
+
+I am a creative and detail-oriented software Engineer with 3 years of professional experience and 7 years of software development experience, focused on developing high-quality, scalable web and mobile applications. I prioritize performance optimization, scalability and clean code practices. I have been awarded Huawei's Star of the Future Medal and Shining Star Award. I blend technical expertise with strong communication and leadership skills. I take ownership of the product I develop.
+
+JavaScript and Frameworks: 
+- React, Vue, Angular, TypeScript
+Java ecosystem:
+Spring Boot, Microservices Architecture, and cloud technologies
 
   <p align="center">
   <img width="400px" alt="Engin Karatas's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/enginkaratas?theme=tokyonight" />  
