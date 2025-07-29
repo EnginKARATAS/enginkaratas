@@ -20,7 +20,7 @@ I am a creative and detail-oriented software Engineer with 3 years of profession
 JavaScript and Frameworks: 
 - React, Vue, Angular, TypeScript
 Java ecosystem:
-Spring Boot, Microservices Architecture, and cloud technologies
+- Spring Boot, Microservices Architecture, and cloud technologies
 
   <p align="center">
   <img width="400px" alt="Engin Karatas's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/enginkaratas?theme=tokyonight" />  
