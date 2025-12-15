@@ -15,8 +15,7 @@
 
 ---
 
-## 🏅 Başarılar ve Profesyonel Yaklaşım
-
+## 🏅 Başarılar
 * **Ödüller:** Huawei tarafından **"Geleceğin Yıldızı Madalyası"** ve **"Parlayan Yıldız Ödülü"** ile onurlandırıldım.
 * **Liderlik & Sahiplenme:** Güçlü iletişim ve liderlik becerilerimi teknik uzmanlığımla birleştirerek geliştirdiğim ürünlerin **uçtan uca sahipliğini** alırım.
 * **Başarı Notu:** Bir Vue.js uygulamasını, kullanıcıların geçişi hiç fark etmeyeceği kadar sorunsuz bir şekilde migrate ettim. 🥷
