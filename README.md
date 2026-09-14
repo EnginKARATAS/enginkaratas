@@ -26,3 +26,6 @@
 
 * **LinkedIn:** [https://www.linkedin.com/in/enginkaratas/](https://www.linkedin.com/in/enginkaratas/)
 * **Portfolyo / Dijital Alanım:** [https://enginkaratas.com](https://enginkaratas.com)
+
+## 🔗 Seminerler
+https://www.youtube.com/watch?v=uEXB_QlcqVw
