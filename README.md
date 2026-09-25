@@ -1,31 +1,31 @@
-# 🚀 Engin Karatas | Full-Stack Yazılım Mühendisi
+# 🚀 Engin Karatas | Full-Stack Software Engineer
 
-**Software Engineer @ Huawei**'de 3 yılı aşkın olmak üzere toplam **7 yıllık yazılım geliştirme** deneyimine sahip bir Full-Stack Mühendisiyim. Yüksek ölçekli iş uygulamaları, performans optimizasyonu ve temiz kod prensipleriyle kaliteli, ölçeklenebilir web ve mobil uygulamalar geliştirmeye odaklanıyorum.
+I am a Full-Stack Engineer with **7 years of software development** experience in total, including over 3 years as a **Software Engineer @ Huawei**. I focus on developing high-quality, scalable web and mobile applications with an emphasis on high-scale enterprise applications, performance optimization, and clean code principles.
 
 ---
 
-## 🛠️ Temel Teknik Yetkinlikler
+## 🛠️ Core Technical Skills
 
-| Alan | Teknolojiler ve Mimariler |
+| Domain | Technologies and Architectures |
 | :--- | :--- |
 | **Backend** | Java, Spring Boot, Microservices Architecture |
 | **Frontend** | Next.js, React, Vue.js, TypeScript, Angular, JavaScript |
 | **Cloud** | AWS, Huawei Cloud |
-| **Geliştirme Metodolojisi** | Ölçeklenebilirlik, Performans Optimizasyonu, Temiz Kod Uygulamaları |
+| **Development Methodology** | Scalability, Performance Optimization, Clean Code Practices |
 
 ---
 
-## 🏅 Başarılar
-* **Ödüller:** Huawei tarafından **"Geleceğin Yıldızı Madalyası"** ve **"Parlayan Yıldız Ödülü"** ile onurlandırıldım.
-* **Liderlik & Sahiplenme:** Güçlü iletişim ve liderlik becerilerimi teknik uzmanlığımla birleştirerek geliştirdiğim ürünlerin **uçtan uca sahipliğini** alırım.
-* **Başarı Notu:** Bir Vue.js uygulamasını, kullanıcıların geçişi hiç fark etmeyeceği kadar sorunsuz bir şekilde migrate ettim. 🥷
+## 🏅 Achievements
+* **Awards:** Honored with the **"Future Star Medal"** and **"Shining Star Award"** by Huawei.
+* **Leadership & Ownership:** By combining my strong communication and leadership skills with my technical expertise, I take **end-to-end ownership** of the products I develop.
+* **Success Note:** Migrated a Vue.js application so seamlessly that users didn't even notice the transition. 🥷
 
 ---
 
-## 🔗 İletişim
+## 🔗 Contact
 
 * **LinkedIn:** [https://www.linkedin.com/in/enginkaratas/](https://www.linkedin.com/in/enginkaratas/)
-* **Portfolyo / Dijital Alanım:** [https://enginkaratas.com](https://enginkaratas.com)
+* **Portfolio / Digital Space:** [https://enginkaratas.com](https://enginkaratas.com)
 
-## 🔗 Seminerler
+## 🔗 Seminars
 https://www.youtube.com/watch?v=uEXB_QlcqVw
